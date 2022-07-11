@@ -1,0 +1,22 @@
+#block
+{
+     width:300px;
+     display:flex;
+     flex-direction:column;
+     margin:50px;
+     border:2px solid rgb(176, 73, 73);
+}
+header
+{
+     tex-align:center;
+     background-color: blue;
+     text-color:green;
+     height: 80px;
+     width:100%;
+}    
+content
+{
+     display: flex;
+     justify-content: space-between;
+     width: 100%;
+} 
